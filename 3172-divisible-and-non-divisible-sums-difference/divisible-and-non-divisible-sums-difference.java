@@ -6,7 +6,8 @@ class Solution {
             if(i%m != 0){
                 num1+=i;
             }
-             if(i%m == 0){
+            else
+            {
                 num2 +=i;
             }
         }
