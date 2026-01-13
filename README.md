@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
 | [1390-four-divisors](https://github.com/ParthAgrawal27/DSA/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/ParthAgrawal27/DSA/tree/master/1975-maximum-matrix-sum) |
+| [3453-separate-squares-i](https://github.com/ParthAgrawal27/DSA/tree/master/3453-separate-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
+## Binary Search
+|  |
+| ------- |
+| [3453-separate-squares-i](https://github.com/ParthAgrawal27/DSA/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
