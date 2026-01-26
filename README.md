@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
+| [1200-minimum-absolute-difference](https://github.com/ParthAgrawal27/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/ParthAgrawal27/DSA/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/ParthAgrawal27/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ParthAgrawal27/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -83,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/ParthAgrawal27/DSA/tree/master/1200-minimum-absolute-difference) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ParthAgrawal27/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 <!---LeetCode Topics End-->
