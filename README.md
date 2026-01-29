@@ -92,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/ParthAgrawal27/DSA/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
