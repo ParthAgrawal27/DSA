@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/ParthAgrawal27/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3454-separate-squares-ii) |
 | [3637-trionic-array-i](https://github.com/ParthAgrawal27/DSA/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3640-trionic-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [3640-trionic-array-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
