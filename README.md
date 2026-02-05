@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ParthAgrawal27/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ParthAgrawal27/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/ParthAgrawal27/DSA/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/ParthAgrawal27/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3454-separate-squares-ii) |
 | [3637-trionic-array-i](https://github.com/ParthAgrawal27/DSA/tree/master/3637-trionic-array-i) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/ParthAgrawal27/DSA/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
