@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ParthAgrawal27/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3714-longest-balanced-substring-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ParthAgrawal27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3714-longest-balanced-substring-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/ParthAgrawal27/DSA/tree/master/3379-transformed-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3714-longest-balanced-substring-ii) |
 <!---LeetCode Topics End-->
