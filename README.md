@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/ParthAgrawal27/DSA/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/ParthAgrawal27/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3454-separate-squares-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ParthAgrawal27/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ParthAgrawal27/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ParthAgrawal27/DSA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3640-trionic-array-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/ParthAgrawal27/DSA/tree/master/1390-four-divisors) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ParthAgrawal27/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
