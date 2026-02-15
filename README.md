@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ParthAgrawal27/DSA/tree/master/0067-add-binary) |
 | [1390-four-divisors](https://github.com/ParthAgrawal27/DSA/tree/master/1390-four-divisors) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ParthAgrawal27/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ParthAgrawal27/DSA/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ParthAgrawal27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -133,9 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ParthAgrawal27/DSA/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/ParthAgrawal27/DSA/tree/master/3379-transformed-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3714-longest-balanced-substring-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3714-longest-balanced-substring-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ParthAgrawal27/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
