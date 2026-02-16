@@ -145,4 +145,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ParthAgrawal27/DSA/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/ParthAgrawal27/DSA/tree/master/0190-reverse-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/ParthAgrawal27/DSA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
