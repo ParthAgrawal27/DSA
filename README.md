@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
 | [1200-minimum-absolute-difference](https://github.com/ParthAgrawal27/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ParthAgrawal27/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/ParthAgrawal27/DSA/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/ParthAgrawal27/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ParthAgrawal27/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -110,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0761-special-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/ParthAgrawal27/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ParthAgrawal27/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ParthAgrawal27/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ParthAgrawal27/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ParthAgrawal27/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ParthAgrawal27/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ParthAgrawal27/DSA/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/ParthAgrawal27/DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ParthAgrawal27/DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ParthAgrawal27/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
