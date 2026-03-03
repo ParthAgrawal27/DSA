@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ParthAgrawal27/DSA/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/0761-special-binary-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ParthAgrawal27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ParthAgrawal27/DSA/tree/master/0067-add-binary) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ParthAgrawal27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/ParthAgrawal27/DSA/tree/master/3379-transformed-array) |
 ## Prefix Sum
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
