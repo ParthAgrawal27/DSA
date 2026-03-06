@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ParthAgrawal27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ParthAgrawal27/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ParthAgrawal27/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
