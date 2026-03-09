@@ -2,8 +2,8 @@ class Solution {
     public int numberOfStableArrays(int zero, int one, int limit) {
         final int mod = 1_000_000_007;
 
-        int[][] dp0 = new int[zero + 1][one + 1]; // i 0s + j 1s ending with 0
-        int[][] dp1 = new int[zero + 1][one + 1]; // i 0s + j 1s ending with 1
+        int[][] dp0 = new int[zero + 1][one + 1]; 
+        int[][] dp1 = new int[zero + 1][one + 1]; 
 
      
         for (int i = 1; i <= Math.min(zero, limit); ++i) dp0[i][0] = 1;
