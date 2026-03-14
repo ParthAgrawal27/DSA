@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/ParthAgrawal27/DSA/tree/master/1390-four-divisors) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ParthAgrawal27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/ParthAgrawal27/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [2485-find-the-pivot-integer](https://github.com/ParthAgrawal27/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ParthAgrawal27/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ParthAgrawal27/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [2485-find-the-pivot-integer](https://github.com/ParthAgrawal27/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ParthAgrawal27/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3714-longest-balanced-substring-ii) |
