@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ParthAgrawal27/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ParthAgrawal27/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/ParthAgrawal27/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ParthAgrawal27/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3640-trionic-array-ii) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/ParthAgrawal27/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Stack
 |  |
 | ------- |
