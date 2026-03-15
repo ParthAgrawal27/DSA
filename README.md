@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ParthAgrawal27/DSA/tree/master/0067-add-binary) |
 | [1390-four-divisors](https://github.com/ParthAgrawal27/DSA/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/ParthAgrawal27/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ParthAgrawal27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/ParthAgrawal27/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2485-find-the-pivot-integer](https://github.com/ParthAgrawal27/DSA/tree/master/2485-find-the-pivot-integer) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/ParthAgrawal27/DSA/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3454-separate-squares-ii) |
 ## Line Sweep
 |  |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ParthAgrawal27/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/ParthAgrawal27/DSA/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
