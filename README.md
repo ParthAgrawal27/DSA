@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ParthAgrawal27/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ParthAgrawal27/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ParthAgrawal27/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1652-defuse-the-bomb](https://github.com/ParthAgrawal27/DSA/tree/master/1652-defuse-the-bomb) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthAgrawal27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/ParthAgrawal27/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1980-find-unique-binary-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1652-defuse-the-bomb](https://github.com/ParthAgrawal27/DSA/tree/master/1652-defuse-the-bomb) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ParthAgrawal27/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ParthAgrawal27/DSA/tree/master/3634-minimum-removals-to-balance-array) |
