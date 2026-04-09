@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/ParthAgrawal27/DSA/tree/master/0178-rank-scores) |
 | [0577-employee-bonus](https://github.com/ParthAgrawal27/DSA/tree/master/0577-employee-bonus) |
 | [0627-swap-sex-of-employees](https://github.com/ParthAgrawal27/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1280-students-and-examinations](https://github.com/ParthAgrawal27/DSA/tree/master/1280-students-and-examinations) |
