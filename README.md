@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/ParthAgrawal27/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ParthAgrawal27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/ParthAgrawal27/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/ParthAgrawal27/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthAgrawal27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2485-find-the-pivot-integer](https://github.com/ParthAgrawal27/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ParthAgrawal27/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
