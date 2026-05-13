@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/ParthAgrawal27/DSA/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/ParthAgrawal27/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/ParthAgrawal27/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ParthAgrawal27/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
+| [1021-remove-outermost-parentheses](https://github.com/ParthAgrawal27/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ParthAgrawal27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
