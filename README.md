@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3794-reverse-string-prefix](https://github.com/ParthAgrawal27/DSA/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthAgrawal27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ParthAgrawal27/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3794-reverse-string-prefix](https://github.com/ParthAgrawal27/DSA/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
