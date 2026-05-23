@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ParthAgrawal27/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ParthAgrawal27/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1652-defuse-the-bomb](https://github.com/ParthAgrawal27/DSA/tree/master/1652-defuse-the-bomb) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ParthAgrawal27/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthAgrawal27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ParthAgrawal27/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/ParthAgrawal27/DSA/tree/master/1975-maximum-matrix-sum) |
