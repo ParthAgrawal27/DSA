@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ParthAgrawal27/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1795-rearrange-products-table](https://github.com/ParthAgrawal27/DSA/tree/master/1795-rearrange-products-table) |
 | [1890-the-latest-login-in-2020](https://github.com/ParthAgrawal27/DSA/tree/master/1890-the-latest-login-in-2020) |
+| [3475-dna-pattern-recognition](https://github.com/ParthAgrawal27/DSA/tree/master/3475-dna-pattern-recognition) |
 ## Enumeration
 |  |
 | ------- |
