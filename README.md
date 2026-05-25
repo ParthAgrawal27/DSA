@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ParthAgrawal27/DSA/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ParthAgrawal27/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthAgrawal27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ParthAgrawal27/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthAgrawal27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ParthAgrawal27/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
