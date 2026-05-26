@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ParthAgrawal27/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ParthAgrawal27/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ParthAgrawal27/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/ParthAgrawal27/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ParthAgrawal27/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ParthAgrawal27/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ParthAgrawal27/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ParthAgrawal27/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
