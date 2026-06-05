@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ParthAgrawal27/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ParthAgrawal27/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1652-defuse-the-bomb](https://github.com/ParthAgrawal27/DSA/tree/master/1652-defuse-the-bomb) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ParthAgrawal27/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ParthAgrawal27/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthAgrawal27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ParthAgrawal27/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ParthAgrawal27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ParthAgrawal27/DSA/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ParthAgrawal27/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ParthAgrawal27/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1980-find-unique-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ParthAgrawal27/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ParthAgrawal27/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ParthAgrawal27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ParthAgrawal27/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ParthAgrawal27/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ParthAgrawal27/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ParthAgrawal27/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ParthAgrawal27/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/ParthAgrawal27/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ParthAgrawal27/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ParthAgrawal27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ParthAgrawal27/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
