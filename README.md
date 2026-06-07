@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParthAgrawal27/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1693-daily-leads-and-partners](https://github.com/ParthAgrawal27/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ParthAgrawal27/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/ParthAgrawal27/DSA/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/ParthAgrawal27/DSA/tree/master/1795-rearrange-products-table) |
 | [1890-the-latest-login-in-2020](https://github.com/ParthAgrawal27/DSA/tree/master/1890-the-latest-login-in-2020) |
 | [3475-dna-pattern-recognition](https://github.com/ParthAgrawal27/DSA/tree/master/3475-dna-pattern-recognition) |
