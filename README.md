@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ParthAgrawal27/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ParthAgrawal27/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ParthAgrawal27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/ParthAgrawal27/DSA/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/ParthAgrawal27/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
+| [0416-partition-equal-subset-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/ParthAgrawal27/DSA/tree/master/0799-champagne-tower) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ParthAgrawal27/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
