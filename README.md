@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ParthAgrawal27/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ParthAgrawal27/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ParthAgrawal27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/ParthAgrawal27/DSA/tree/master/0912-sort-an-array) |
 | [1049-last-stone-weight-ii](https://github.com/ParthAgrawal27/DSA/tree/master/1049-last-stone-weight-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
 | [0416-partition-equal-subset-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/ParthAgrawal27/DSA/tree/master/0799-champagne-tower) |
 | [1049-last-stone-weight-ii](https://github.com/ParthAgrawal27/DSA/tree/master/1049-last-stone-weight-ii) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/ParthAgrawal27/DSA/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ParthAgrawal27/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1980-find-unique-binary-string) |
 ## Union-Find
