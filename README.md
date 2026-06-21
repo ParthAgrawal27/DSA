@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/ParthAgrawal27/DSA/tree/master/1280-students-and-examinations) |
 | [1393-capital-gainloss](https://github.com/ParthAgrawal27/DSA/tree/master/1393-capital-gainloss) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParthAgrawal27/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1587-bank-account-summary-ii](https://github.com/ParthAgrawal27/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/ParthAgrawal27/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ParthAgrawal27/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/ParthAgrawal27/DSA/tree/master/1789-primary-department-for-each-employee) |
