@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/ParthAgrawal27/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ParthAgrawal27/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3894-traffic-signal-color](https://github.com/ParthAgrawal27/DSA/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/ParthAgrawal27/DSA/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3945-digit-frequency-score](https://github.com/ParthAgrawal27/DSA/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
