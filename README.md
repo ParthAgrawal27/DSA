@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ParthAgrawal27/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ParthAgrawal27/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/ParthAgrawal27/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ParthAgrawal27/DSA/tree/master/0518-coin-change-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ParthAgrawal27/DSA/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ParthAgrawal27/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ParthAgrawal27/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
+| [0322-coin-change](https://github.com/ParthAgrawal27/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ParthAgrawal27/DSA/tree/master/0518-coin-change-ii) |
