@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/ParthAgrawal27/DSA/tree/master/0178-rank-scores) |
+| [0511-game-play-analysis-i](https://github.com/ParthAgrawal27/DSA/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/ParthAgrawal27/DSA/tree/master/0577-employee-bonus) |
 | [0619-biggest-single-number](https://github.com/ParthAgrawal27/DSA/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/ParthAgrawal27/DSA/tree/master/0627-swap-sex-of-employees) |
