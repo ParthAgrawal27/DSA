@@ -1,0 +1,2 @@
+/* Write your PL/SQL query statement below */
+Select actor_id , director_id from ActorDirector Group by actor_id , director_id Having Count(*) >= 3;
