@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/ParthAgrawal27/DSA/tree/master/0577-employee-bonus) |
 | [0619-biggest-single-number](https://github.com/ParthAgrawal27/DSA/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/ParthAgrawal27/DSA/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ParthAgrawal27/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-reformat-department-table](https://github.com/ParthAgrawal27/DSA/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/ParthAgrawal27/DSA/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ParthAgrawal27/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
