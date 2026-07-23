@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/ParthAgrawal27/DSA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ParthAgrawal27/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3701-compute-alternating-sum](https://github.com/ParthAgrawal27/DSA/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/ParthAgrawal27/DSA/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/ParthAgrawal27/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ParthAgrawal27/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/ParthAgrawal27/DSA/tree/master/3379-transformed-array) |
+| [3701-compute-alternating-sum](https://github.com/ParthAgrawal27/DSA/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/ParthAgrawal27/DSA/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/ParthAgrawal27/DSA/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
