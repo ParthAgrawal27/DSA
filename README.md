@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ParthAgrawal27/DSA/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/ParthAgrawal27/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/ParthAgrawal27/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/ParthAgrawal27/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/ParthAgrawal27/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ParthAgrawal27/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/ParthAgrawal27/DSA/tree/master/0799-champagne-tower) |
 | [1049-last-stone-weight-ii](https://github.com/ParthAgrawal27/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/ParthAgrawal27/DSA/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ParthAgrawal27/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ParthAgrawal27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ParthAgrawal27/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
