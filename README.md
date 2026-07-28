@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ParthAgrawal27/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ParthAgrawal27/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ParthAgrawal27/DSA/tree/master/0242-valid-anagram) |
+| [0583-delete-operation-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/ParthAgrawal27/DSA/tree/master/0771-jewels-and-stones) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ParthAgrawal27/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ParthAgrawal27/DSA/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthAgrawal27/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/ParthAgrawal27/DSA/tree/master/0799-champagne-tower) |
 | [1049-last-stone-weight-ii](https://github.com/ParthAgrawal27/DSA/tree/master/1049-last-stone-weight-ii) |
