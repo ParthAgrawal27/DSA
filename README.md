@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ParthAgrawal27/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1070-product-sales-analysis-iii](https://github.com/ParthAgrawal27/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/ParthAgrawal27/DSA/tree/master/1179-reformat-department-table) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/ParthAgrawal27/DSA/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/ParthAgrawal27/DSA/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ParthAgrawal27/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1393-capital-gainloss](https://github.com/ParthAgrawal27/DSA/tree/master/1393-capital-gainloss) |
