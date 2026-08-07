@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParthAgrawal27/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/ParthAgrawal27/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/ParthAgrawal27/DSA/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/ParthAgrawal27/DSA/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ParthAgrawal27/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/ParthAgrawal27/DSA/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/ParthAgrawal27/DSA/tree/master/1795-rearrange-products-table) |
