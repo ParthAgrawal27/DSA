@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/ParthAgrawal27/DSA/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ParthAgrawal27/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ParthAgrawal27/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ParthAgrawal27/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ParthAgrawal27/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ParthAgrawal27/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/ParthAgrawal27/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1980-find-unique-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ParthAgrawal27/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ParthAgrawal27/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ParthAgrawal27/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ParthAgrawal27/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthAgrawal27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ParthAgrawal27/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ParthAgrawal27/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ParthAgrawal27/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ParthAgrawal27/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ParthAgrawal27/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ParthAgrawal27/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
