@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/ParthAgrawal27/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/ParthAgrawal27/DSA/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/ParthAgrawal27/DSA/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/ParthAgrawal27/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/ParthAgrawal27/DSA/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/ParthAgrawal27/DSA/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/ParthAgrawal27/DSA/tree/master/3894-traffic-signal-color) |
+| [3925-concatenate-array-with-reverse](https://github.com/ParthAgrawal27/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
