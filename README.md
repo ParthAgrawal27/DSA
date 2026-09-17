@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ParthAgrawal27/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/ParthAgrawal27/DSA/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/ParthAgrawal27/DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/ParthAgrawal27/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/ParthAgrawal27/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/ParthAgrawal27/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3731-find-missing-elements](https://github.com/ParthAgrawal27/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ParthAgrawal27/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/ParthAgrawal27/DSA/tree/master/3945-digit-frequency-score) |
 ## String
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/ParthAgrawal27/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ParthAgrawal27/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ParthAgrawal27/DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/ParthAgrawal27/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
