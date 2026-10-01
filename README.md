@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ParthAgrawal27/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1189-maximum-number-of-balloons](https://github.com/ParthAgrawal27/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ParthAgrawal27/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ParthAgrawal27/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1980-find-unique-binary-string) |
 | [2404-most-frequent-even-element](https://github.com/ParthAgrawal27/DSA/tree/master/2404-most-frequent-even-element) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ParthAgrawal27/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/ParthAgrawal27/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/ParthAgrawal27/DSA/tree/master/1694-reformat-phone-number) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ParthAgrawal27/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ParthAgrawal27/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ParthAgrawal27/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/ParthAgrawal27/DSA/tree/master/1980-find-unique-binary-string) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ParthAgrawal27/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ParthAgrawal27/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ParthAgrawal27/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ParthAgrawal27/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2404-most-frequent-even-element](https://github.com/ParthAgrawal27/DSA/tree/master/2404-most-frequent-even-element) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ParthAgrawal27/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
