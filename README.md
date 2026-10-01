@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ParthAgrawal27/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ParthAgrawal27/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ParthAgrawal27/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParthAgrawal27/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ParthAgrawal27/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ParthAgrawal27/DSA/tree/master/0125-valid-palindrome) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ParthAgrawal27/DSA/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ParthAgrawal27/DSA/tree/master/0085-maximal-rectangle) |
 | [1021-remove-outermost-parentheses](https://github.com/ParthAgrawal27/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ParthAgrawal27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -464,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ParthAgrawal27/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ParthAgrawal27/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
